@@ -1,6 +1,6 @@
 # t2_worlds_odds
 
-Python scripts that pull [Polymarket](https://polymarket.com) betting odds for tier-2 League of Legends matches — built for the **World Star Challengers Invitational** — and save them to CSV so you can track how lines move over time.
+Python scripts that pull [Polymarket](https://polymarket.com) betting odds for tier-2 League of Legends matches. specifically built for the **World Star Challengers Invitational**, and save them to CSV so you can track how lines move over time.
 
 Uses only Polymarket's free public APIs (Gamma for market discovery, CLOB for prices). No API key needed.
 
