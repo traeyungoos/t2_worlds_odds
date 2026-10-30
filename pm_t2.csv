@@ -1,0 +1,238 @@
+﻿pulled_at_utc,match_utc,group,market_type,market,team_a,prob_a_pct,bid_a,ask_a,team_b,prob_b_pct,bid_b,ask_b,vig_pct,volume_24h,liquidity,url
+2026-09-18 16:08:40,2026-09-13 15:00,,moneyline,LoL: Bushido Wildcats vs ⁠Movistar KOI Fénix (BO5) - World Star Challengers Invitational EMEA Qualifier Playoffs,Bushido Wildcats,,,,⁠Movistar KOI Fénix,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,moneyline,LoL: Bushido Wildcats vs ⁠Movistar KOI Fénix - Game 1 Winner,Bushido Wildcats,,,,⁠Movistar KOI Fénix,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,moneyline,LoL: Bushido Wildcats vs ⁠Movistar KOI Fénix - Game 2 Winner,Bushido Wildcats,,,,⁠Movistar KOI Fénix,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,moneyline,LoL: Bushido Wildcats vs ⁠Movistar KOI Fénix - Game 3 Winner,Bushido Wildcats,,,,⁠Movistar KOI Fénix,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,moneyline,LoL: Bushido Wildcats vs ⁠Movistar KOI Fénix - Game 4 Winner,Bushido Wildcats,,,,⁠Movistar KOI Fénix,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,First Blood in Game 1?,Bushido Wildcats,,,,⁠Movistar KOI Fénix,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,First Blood in Game 2?,Bushido Wildcats,,,,⁠Movistar KOI Fénix,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,First Blood in Game 3?,Bushido Wildcats,,,,⁠Movistar KOI Fénix,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,First Blood in Game 4?,Bushido Wildcats,,,,⁠Movistar KOI Fénix,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 1: Any Player Penta Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 1: Any Player Quadra Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 1: Both Teams Destroy Inhibitors?,Yes,50.0,,1.0,No,50.0,,1.0,0.0,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 1: Both Teams Slay Baron Nashor?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 1: Both Teams Slay a Dragon?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 2: Any Player Penta Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 2: Any Player Quadra Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 2: Both Teams Destroy Inhibitors?,Yes,50.0,,1.0,No,50.0,,1.0,0.0,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 2: Both Teams Slay Baron Nashor?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 2: Both Teams Slay a Dragon?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 3: Any Player Penta Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 3: Any Player Quadra Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 3: Both Teams Destroy Inhibitors?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 3: Both Teams Slay Baron Nashor?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 3: Both Teams Slay a Dragon?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 4: Any Player Penta Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 4: Any Player Quadra Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 4: Both Teams Destroy Inhibitors?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 4: Both Teams Slay Baron Nashor?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 4: Both Teams Slay a Dragon?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 5: Any Player Penta Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 5: Any Player Quadra Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 5: Both Teams Destroy Inhibitors?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 5: Both Teams Slay Baron Nashor?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,prop,Game 5: Both Teams Slay a Dragon?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,spread,Game Handicap: MKF (-1.5) vs Bushido Wildcats (+1.5),⁠Movistar KOI Fénix,,,,Bushido Wildcats,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,spread,Game Handicap: MKF (-2.5) vs Bushido Wildcats (+2.5),⁠Movistar KOI Fénix,,,,Bushido Wildcats,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,total,Game 1: Odd/Even Total Kills?,Odd,,,,Even,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,total,Game 2: Odd/Even Total Kills?,Odd,,,,Even,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,total,Game 3: Odd/Even Total Kills?,Odd,,,,Even,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,total,Game 4: Odd/Even Total Kills?,Odd,,,,Even,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,total,Game 5: Odd/Even Total Kills?,Odd,,,,Even,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,total,Games Total: O/U 3.5,Over,,,,Under,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-13 15:00,,total,Games Total: O/U 4.5,Over,,,,Under,,,,,,,https://polymarket.com/event/lol-bw-koia-2026-09-13
+2026-09-18 16:08:40,2026-09-14 16:00,,moneyline,LoL: BIG vs ⁠Movistar KOI Fénix (BO5) - World Star Challengers Invitational EMEA Qualifier Playoffs,BIG,,,,⁠Movistar KOI Fénix,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,moneyline,LoL: BIG vs ⁠Movistar KOI Fénix - Game 1 Winner,BIG,,,,⁠Movistar KOI Fénix,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,moneyline,LoL: BIG vs ⁠Movistar KOI Fénix - Game 2 Winner,BIG,,,,⁠Movistar KOI Fénix,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,moneyline,LoL: BIG vs ⁠Movistar KOI Fénix - Game 3 Winner,BIG,,,,⁠Movistar KOI Fénix,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,moneyline,LoL: BIG vs ⁠Movistar KOI Fénix - Game 4 Winner,BIG,,,,⁠Movistar KOI Fénix,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,First Blood in Game 1?,BIG,,,,⁠Movistar KOI Fénix,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,First Blood in Game 2?,BIG,,,,⁠Movistar KOI Fénix,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,First Blood in Game 3?,BIG,,,,⁠Movistar KOI Fénix,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,First Blood in Game 4?,BIG,,,,⁠Movistar KOI Fénix,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 1: Any Player Penta Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 1: Any Player Quadra Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 1: Both Teams Destroy Inhibitors?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 1: Both Teams Slay Baron Nashor?,Yes,50.0,,,No,,,1.0,-50.0,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 1: Both Teams Slay a Dragon?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 2: Any Player Penta Kill?,Yes,50.0,,1.0,No,50.0,,1.0,0.0,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 2: Any Player Quadra Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 2: Both Teams Destroy Inhibitors?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 2: Both Teams Slay Baron Nashor?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 2: Both Teams Slay a Dragon?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 3: Any Player Penta Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 3: Any Player Quadra Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 3: Both Teams Destroy Inhibitors?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 3: Both Teams Slay Baron Nashor?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 3: Both Teams Slay a Dragon?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 4: Any Player Penta Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 4: Any Player Quadra Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 4: Both Teams Destroy Inhibitors?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 4: Both Teams Slay Baron Nashor?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 4: Both Teams Slay a Dragon?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 5: Any Player Penta Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 5: Any Player Quadra Kill?,Yes,50.0,,1.0,No,50.0,,1.0,0.0,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 5: Both Teams Destroy Inhibitors?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 5: Both Teams Slay Baron Nashor?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,prop,Game 5: Both Teams Slay a Dragon?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,spread,Game Handicap: BIG (-1.5) vs ⁠Movistar KOI Fénix (+1.5),BIG,,,,⁠Movistar KOI Fénix,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,spread,Game Handicap: BIG (-2.5) vs ⁠Movistar KOI Fénix (+2.5),BIG,,,,⁠Movistar KOI Fénix,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,total,Game 1: Odd/Even Total Kills?,Odd,,,,Even,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,total,Game 2: Odd/Even Total Kills?,Odd,,,,Even,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,total,Game 3: Odd/Even Total Kills?,Odd,,,,Even,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,total,Game 4: Odd/Even Total Kills?,Odd,,,,Even,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,total,Game 5: Odd/Even Total Kills?,Odd,,,,Even,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,total,Games Total: O/U 3.5,Over,,,,Under,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-14 16:00,,total,Games Total: O/U 4.5,Over,,,,Under,,,,,,,https://polymarket.com/event/lol-big1-koia-2026-09-14
+2026-09-18 16:08:40,2026-09-16 19:00,,moneyline,LoL: 9z Globant vs Fuego (BO5) - World Star Challengers Invitational Americas Qualifier Playoffs,9z Globant,,,,Fuego,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,moneyline,LoL: 9z Globant vs Fuego - Game 1 Winner,9z Globant,,,,Fuego,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,moneyline,LoL: 9z Globant vs Fuego - Game 2 Winner,9z Globant,50.0,,1.0,Fuego,50.0,,1.0,0.0,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,moneyline,LoL: 9z Globant vs Fuego - Game 3 Winner,9z Globant,,,,Fuego,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,moneyline,LoL: 9z Globant vs Fuego - Game 4 Winner,9z Globant,,,,Fuego,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 1: Any Player Penta Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 1: Any Player Quadra Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 1: Both Teams Destroy Inhibitors?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 1: Both Teams Slay Baron Nashor?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 1: Both Teams Slay a Dragon?,Yes,,,1.0,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 2: Any Player Penta Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 2: Any Player Quadra Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 2: Both Teams Destroy Inhibitors?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 2: Both Teams Slay Baron Nashor?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 2: Both Teams Slay a Dragon?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 3: Any Player Penta Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 3: Any Player Quadra Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 3: Both Teams Destroy Inhibitors?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 3: Both Teams Slay Baron Nashor?,Yes,50.0,,1.0,No,50.0,,1.0,0.0,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 3: Both Teams Slay a Dragon?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 4: Any Player Penta Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 4: Any Player Quadra Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 4: Both Teams Destroy Inhibitors?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 4: Both Teams Slay Baron Nashor?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 4: Both Teams Slay a Dragon?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 5: Any Player Penta Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 5: Any Player Quadra Kill?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 5: Both Teams Destroy Inhibitors?,Yes,50.0,,1.0,No,50.0,,1.0,0.0,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 5: Both Teams Slay Baron Nashor?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,prop,Game 5: Both Teams Slay a Dragon?,Yes,,,,No,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,spread,Game Handicap: FUE (-1.5) vs 9z Globant (+1.5),Fuego,,,,9z Globant,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,spread,Game Handicap: FUE (-2.5) vs 9z Globant (+2.5),Fuego,,,,9z Globant,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,total,Game 1: Odd/Even Total Kills?,Odd,,,,Even,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,total,Game 2: Odd/Even Total Kills?,Odd,,,,Even,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,total,Game 3: Odd/Even Total Kills?,Odd,,,,Even,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,total,Game 4: Odd/Even Total Kills?,Odd,,,,Even,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,total,Game 5: Odd/Even Total Kills?,Odd,,,1.0,Even,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,total,Games Total: O/U 3.5,Over,,,,Under,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-16 19:00,,total,Games Total: O/U 4.5,Over,,,,Under,,,,,,,https://polymarket.com/event/lol-9zg-fue-2026-09-16
+2026-09-18 16:08:40,2026-09-20 06:00,A,moneyline,LoL: EDward Gaming Youth Team vs T1 Academy (BO1) - World Star Challengers Invitational Group A,EDward Gaming Youth Team,16.0,0.13,0.19,T1 Academy,84.0,0.81,0.87,0.0,,2180.218,https://polymarket.com/event/lol-edgy-t1a-2026-09-20
+2026-09-18 16:08:40,2026-09-20 06:00,A,prop,Game 1: Any Player Penta Kill?,Yes,25.5,0.01,0.5,No,74.5,0.5,0.99,0.0,,372.0,https://polymarket.com/event/lol-edgy-t1a-2026-09-20
+2026-09-18 16:08:40,2026-09-20 06:00,A,prop,Game 1: Any Player Quadra Kill?,Yes,27.0,0.04,0.5,No,73.0,0.5,0.96,0.0,,352.0,https://polymarket.com/event/lol-edgy-t1a-2026-09-20
+2026-09-18 16:08:40,2026-09-20 06:00,A,prop,Game 1: Both Teams Destroy Inhibitors?,Yes,26.0,0.02,0.5,No,74.0,0.5,0.98,0.0,,352.0,https://polymarket.com/event/lol-edgy-t1a-2026-09-20
+2026-09-18 16:08:40,2026-09-20 06:00,A,prop,Game 1: Both Teams Slay Baron Nashor?,Yes,27.0,0.04,0.5,No,73.0,0.5,0.96,0.0,,352.0,https://polymarket.com/event/lol-edgy-t1a-2026-09-20
+2026-09-18 16:08:40,2026-09-20 06:00,A,prop,Game 1: Both Teams Slay a Dragon?,Yes,65.0,0.47,0.83,No,35.0,0.17,0.53,0.0,,351.9955,https://polymarket.com/event/lol-edgy-t1a-2026-09-20
+2026-09-18 16:08:40,2026-09-20 06:00,A,total,Game 1: Odd/Even Total Kills?,Odd,50.0,0.49,0.51,Even,50.0,0.49,0.51,0.0,,150.0134,https://polymarket.com/event/lol-edgy-t1a-2026-09-20
+2026-09-18 16:08:40,2026-09-20 07:00,A,moneyline,LoL: Fuego vs DN SOOPers Challengers (BO1) - World Star Challengers Invitational Group A,Fuego,8.5,0.07,0.1,DN SOOPers Challengers,91.5,0.9,0.93,0.0,1694.1,15169.1991,https://polymarket.com/event/lol-fue-dnsc-2026-09-20
+2026-09-18 16:08:40,2026-09-20 07:00,A,prop,Game 1: Any Player Penta Kill?,Yes,25.5,0.01,0.5,No,74.5,0.5,0.99,0.0,,372.0,https://polymarket.com/event/lol-fue-dnsc-2026-09-20
+2026-09-18 16:08:40,2026-09-20 07:00,A,prop,Game 1: Any Player Quadra Kill?,Yes,27.0,0.04,0.5,No,73.0,0.5,0.96,0.0,,352.0,https://polymarket.com/event/lol-fue-dnsc-2026-09-20
+2026-09-18 16:08:40,2026-09-20 07:00,A,prop,Game 1: Both Teams Destroy Inhibitors?,Yes,26.5,0.03,0.5,No,73.5,0.5,0.97,0.0,,352.6058,https://polymarket.com/event/lol-fue-dnsc-2026-09-20
+2026-09-18 16:08:40,2026-09-20 07:00,A,prop,Game 1: Both Teams Slay Baron Nashor?,Yes,26.5,0.03,0.5,No,73.5,0.5,0.97,0.0,,352.6056,https://polymarket.com/event/lol-fue-dnsc-2026-09-20
+2026-09-18 16:08:40,2026-09-20 07:00,A,prop,Game 1: Both Teams Slay a Dragon?,Yes,66.0,0.48,0.84,No,34.0,0.16,0.52,0.0,,352.6026,https://polymarket.com/event/lol-fue-dnsc-2026-09-20
+2026-09-18 16:08:40,2026-09-20 07:00,A,total,Game 1: Odd/Even Total Kills?,Odd,50.0,0.49,0.51,Even,50.0,0.49,0.51,0.0,,150.6188,https://polymarket.com/event/lol-fue-dnsc-2026-09-20
+2026-09-18 16:08:40,2026-09-20 08:00,B,moneyline,LoL: KT Rolster Challengers vs Bilibili Gaming Junior (BO1) - World Star Challengers Invitational Group B,KT Rolster Challengers,82.0,0.79,0.85,Bilibili Gaming Junior,18.0,0.15,0.21,0.0,150.0,3347.5439,https://polymarket.com/event/lol-ktc-blgj-2026-09-20
+2026-09-18 16:08:40,2026-09-20 08:00,B,prop,Game 1: Any Player Penta Kill?,Yes,25.5,0.01,0.5,No,74.5,0.5,0.99,0.0,,372.0,https://polymarket.com/event/lol-ktc-blgj-2026-09-20
+2026-09-18 16:08:40,2026-09-20 08:00,B,prop,Game 1: Any Player Quadra Kill?,Yes,27.0,0.04,0.5,No,73.0,0.5,0.96,0.0,,352.0,https://polymarket.com/event/lol-ktc-blgj-2026-09-20
+2026-09-18 16:08:40,2026-09-20 08:00,B,prop,Game 1: Both Teams Destroy Inhibitors?,Yes,27.0,0.04,0.5,No,73.0,0.5,0.96,0.0,,353.2499,https://polymarket.com/event/lol-ktc-blgj-2026-09-20
+2026-09-18 16:08:40,2026-09-20 08:00,B,prop,Game 1: Both Teams Slay Baron Nashor?,Yes,27.5,0.05,0.5,No,72.5,0.5,0.95,0.0,,353.6914,https://polymarket.com/event/lol-ktc-blgj-2026-09-20
+2026-09-18 16:08:40,2026-09-20 08:00,B,prop,Game 1: Both Teams Slay a Dragon?,Yes,65.0,0.47,0.83,No,35.0,0.17,0.53,0.0,,353.6869,https://polymarket.com/event/lol-ktc-blgj-2026-09-20
+2026-09-18 16:08:40,2026-09-20 08:00,B,total,Game 1: Odd/Even Total Kills?,Odd,50.0,0.49,0.51,Even,50.0,0.49,0.51,0.0,,151.7046,https://polymarket.com/event/lol-ktc-blgj-2026-09-20
+2026-09-18 16:08:40,2026-09-20 09:00,B,moneyline,LoL: ⁠Movistar KOI Fénix vs CTBC Flying Oyster Academy (BO1) - World Star Challengers Invitational Group B,⁠Movistar KOI Fénix,58.0,0.38,0.78,CTBC Flying Oyster Academy,42.0,0.22,0.62,0.0,308.42,946.159,https://polymarket.com/event/lol-koia-ctbca-2026-09-20
+2026-09-18 16:08:40,2026-09-20 09:00,B,prop,Game 1: Any Player Penta Kill?,Yes,25.5,0.01,0.5,No,74.5,0.5,0.99,0.0,,372.0,https://polymarket.com/event/lol-koia-ctbca-2026-09-20
+2026-09-18 16:08:40,2026-09-20 09:00,B,prop,Game 1: Any Player Quadra Kill?,Yes,27.0,0.04,0.5,No,73.0,0.5,0.96,0.0,,352.0,https://polymarket.com/event/lol-koia-ctbca-2026-09-20
+2026-09-18 16:08:40,2026-09-20 09:00,B,prop,Game 1: Both Teams Destroy Inhibitors?,Yes,27.0,0.04,0.5,No,73.0,0.5,0.96,0.0,,353.5367,https://polymarket.com/event/lol-koia-ctbca-2026-09-20
+2026-09-18 16:08:40,2026-09-20 09:00,B,prop,Game 1: Both Teams Slay Baron Nashor?,Yes,28.0,0.06,0.5,No,72.0,0.5,0.94,0.0,,353.926,https://polymarket.com/event/lol-koia-ctbca-2026-09-20
+2026-09-18 16:08:40,2026-09-20 09:00,B,prop,Game 1: Both Teams Slay a Dragon?,Yes,68.5,0.5,0.87,No,31.5,0.13,0.5,0.0,,353.9252,https://polymarket.com/event/lol-koia-ctbca-2026-09-20
+2026-09-18 16:08:40,2026-09-20 09:00,B,total,Game 1: Odd/Even Total Kills?,Odd,50.0,0.49,0.51,Even,50.0,0.49,0.51,0.0,,158.6376,https://polymarket.com/event/lol-koia-ctbca-2026-09-20
+2026-09-18 16:08:40,2026-09-20 10:00,A,moneyline,LoL: DN SOOPers Challengers vs T1 Academy (BO1) - World Star Challengers Invitational Group A,DN SOOPers Challengers,36.5,0.25,0.48,T1 Academy,63.5,0.52,0.75,0.0,9.0,499.2527,https://polymarket.com/event/lol-dnsc-t1a-2026-09-20
+2026-09-18 16:08:40,2026-09-20 10:00,A,prop,Game 1: Any Player Penta Kill?,Yes,25.5,0.01,0.5,No,74.5,0.5,0.99,0.0,,372.0,https://polymarket.com/event/lol-dnsc-t1a-2026-09-20
+2026-09-18 16:08:40,2026-09-20 10:00,A,prop,Game 1: Any Player Quadra Kill?,Yes,27.0,0.04,0.5,No,73.0,0.5,0.96,0.0,,352.0,https://polymarket.com/event/lol-dnsc-t1a-2026-09-20
+2026-09-18 16:08:40,2026-09-20 10:00,A,prop,Game 1: Both Teams Destroy Inhibitors?,Yes,27.5,0.05,0.5,No,72.5,0.5,0.95,0.0,,353.691,https://polymarket.com/event/lol-dnsc-t1a-2026-09-20
+2026-09-18 16:08:40,2026-09-20 10:00,A,prop,Game 1: Both Teams Slay Baron Nashor?,Yes,27.5,0.05,0.5,No,72.5,0.5,0.95,0.0,,353.6914,https://polymarket.com/event/lol-dnsc-t1a-2026-09-20
+2026-09-18 16:08:40,2026-09-20 10:00,A,prop,Game 1: Both Teams Slay a Dragon?,Yes,67.0,0.5,0.84,No,33.0,0.16,0.5,0.0,,353.6914,https://polymarket.com/event/lol-dnsc-t1a-2026-09-20
+2026-09-18 16:08:40,2026-09-20 10:00,A,total,Game 1: Odd/Even Total Kills?,Odd,50.0,0.49,0.51,Even,50.0,0.49,0.51,0.0,,151.7046,https://polymarket.com/event/lol-dnsc-t1a-2026-09-20
+2026-09-18 16:08:40,2026-09-20 11:00,A,moneyline,LoL: Fuego vs EDward Gaming Youth Team (BO1) - World Star Challengers Invitational Group A,Fuego,32.5,0.21,0.44,EDward Gaming Youth Team,67.5,0.56,0.79,0.0,,423.8363,https://polymarket.com/event/lol-fue-edgy-2026-09-20
+2026-09-18 16:08:40,2026-09-20 11:00,A,prop,Game 1: Any Player Penta Kill?,Yes,25.5,0.01,0.5,No,74.5,0.5,0.99,0.0,,379.66,https://polymarket.com/event/lol-fue-edgy-2026-09-20
+2026-09-18 16:08:40,2026-09-20 11:00,A,prop,Game 1: Any Player Quadra Kill?,Yes,27.0,0.04,0.5,No,73.0,0.5,0.96,0.0,,359.66,https://polymarket.com/event/lol-fue-edgy-2026-09-20
+2026-09-18 16:08:40,2026-09-20 11:00,A,prop,Game 1: Both Teams Destroy Inhibitors?,Yes,27.0,0.04,0.5,No,73.0,0.5,0.96,0.0,,361.2404,https://polymarket.com/event/lol-fue-edgy-2026-09-20
+2026-09-18 16:08:40,2026-09-20 11:00,A,prop,Game 1: Both Teams Slay Baron Nashor?,Yes,27.5,0.05,0.5,No,72.5,0.5,0.95,0.0,,353.5808,https://polymarket.com/event/lol-fue-edgy-2026-09-20
+2026-09-18 16:08:40,2026-09-20 11:00,A,prop,Game 1: Both Teams Slay a Dragon?,Yes,68.5,0.5,0.87,No,31.5,0.13,0.5,0.0,,360.5247,https://polymarket.com/event/lol-fue-edgy-2026-09-20
+2026-09-18 16:08:40,2026-09-20 11:00,A,total,Game 1: Odd/Even Total Kills?,Odd,50.0,0.49,0.51,Even,50.0,0.49,0.51,0.0,,159.254,https://polymarket.com/event/lol-fue-edgy-2026-09-20
+2026-09-18 16:08:40,2026-09-20 12:00,B,moneyline,LoL: CTBC Flying Oyster Academy vs Bilibili Gaming Junior (BO1) - World Star Challengers Invitational Group B,CTBC Flying Oyster Academy,50.0,0.13,0.87,Bilibili Gaming Junior,50.0,0.13,0.87,0.0,,101.3373,https://polymarket.com/event/lol-ctbca-blgj-2026-09-20
+2026-09-18 16:08:40,2026-09-20 12:00,B,prop,Game 1: Any Player Penta Kill?,Yes,25.5,0.01,0.5,No,74.5,0.5,0.99,0.0,,203.66,https://polymarket.com/event/lol-ctbca-blgj-2026-09-20
+2026-09-18 16:08:40,2026-09-20 12:00,B,prop,Game 1: Any Player Quadra Kill?,Yes,27.0,0.04,0.5,No,73.0,0.5,0.96,0.0,,359.66,https://polymarket.com/event/lol-ctbca-blgj-2026-09-20
+2026-09-18 16:08:40,2026-09-20 12:00,B,prop,Game 1: Both Teams Destroy Inhibitors?,Yes,26.5,0.03,0.5,No,73.5,0.5,0.97,0.0,,359.6598,https://polymarket.com/event/lol-ctbca-blgj-2026-09-20
+2026-09-18 16:08:40,2026-09-20 12:00,B,prop,Game 1: Both Teams Slay Baron Nashor?,Yes,28.5,0.07,0.5,No,71.5,0.5,0.93,0.0,,359.6596,https://polymarket.com/event/lol-ctbca-blgj-2026-09-20
+2026-09-18 16:08:40,2026-09-20 12:00,B,prop,Game 1: Both Teams Slay a Dragon?,Yes,66.0,0.5,0.82,No,34.0,0.18,0.5,0.0,,359.6586,https://polymarket.com/event/lol-ctbca-blgj-2026-09-20
+2026-09-18 16:08:40,2026-09-20 12:00,B,total,Game 1: Odd/Even Total Kills?,Odd,50.0,0.49,0.51,Even,50.0,0.49,0.51,0.0,,258.8734,https://polymarket.com/event/lol-ctbca-blgj-2026-09-20
+2026-09-18 16:08:40,2026-09-20 13:00,B,moneyline,LoL: ⁠Movistar KOI Fénix vs KT Rolster Challengers (BO1) - World Star Challengers Invitational Group B,⁠Movistar KOI Fénix,16.5,0.13,0.2,KT Rolster Challengers,83.5,0.8,0.87,0.0,,3454.0352,https://polymarket.com/event/lol-koia-ktc-2026-09-20
+2026-09-18 16:08:40,2026-09-20 13:00,B,prop,Game 1: Any Player Penta Kill?,Yes,25.5,0.01,0.5,No,74.5,0.5,0.99,0.0,,379.66,https://polymarket.com/event/lol-koia-ktc-2026-09-20
+2026-09-18 16:08:40,2026-09-20 13:00,B,prop,Game 1: Any Player Quadra Kill?,Yes,27.0,0.04,0.5,No,73.0,0.5,0.96,0.0,,359.66,https://polymarket.com/event/lol-koia-ktc-2026-09-20
+2026-09-18 16:08:40,2026-09-20 13:00,B,prop,Game 1: Both Teams Destroy Inhibitors?,Yes,26.5,0.03,0.5,No,73.5,0.5,0.97,0.0,,359.6598,https://polymarket.com/event/lol-koia-ktc-2026-09-20
+2026-09-18 16:08:40,2026-09-20 13:00,B,prop,Game 1: Both Teams Slay Baron Nashor?,Yes,27.5,0.05,0.5,No,72.5,0.5,0.95,0.0,,359.66,https://polymarket.com/event/lol-koia-ktc-2026-09-20
+2026-09-18 16:08:40,2026-09-20 13:00,B,prop,Game 1: Both Teams Slay a Dragon?,Yes,68.5,0.5,0.87,No,31.5,0.13,0.5,0.0,,359.6592,https://polymarket.com/event/lol-koia-ktc-2026-09-20
+2026-09-18 16:08:40,2026-09-20 13:00,B,total,Game 1: Odd/Even Total Kills?,Odd,50.0,0.49,0.51,Even,50.0,0.49,0.51,0.0,,157.6734,https://polymarket.com/event/lol-koia-ktc-2026-09-20
+2026-09-18 16:08:40,2026-09-21 06:00,C,moneyline,LoL: Vivo Keyd Stars Academy vs Dplus KIA Challengers (BO1) - World Star Challengers Invitational Group C,Vivo Keyd Stars Academy,16.5,0.16,0.17,Dplus KIA Challengers,83.5,0.83,0.84,0.0,,2010.736,https://polymarket.com/event/lol-vksa-dkc-2026-09-21
+2026-09-18 16:08:40,2026-09-21 06:00,C,prop,Game 1: Any Player Penta Kill?,Yes,26.0,0.02,0.5,No,74.0,0.5,0.98,0.0,,380.06,https://polymarket.com/event/lol-vksa-dkc-2026-09-21
+2026-09-18 16:08:40,2026-09-21 06:00,C,prop,Game 1: Any Player Quadra Kill?,Yes,27.5,0.05,0.5,No,72.5,0.5,0.95,0.0,,360.06,https://polymarket.com/event/lol-vksa-dkc-2026-09-21
+2026-09-18 16:08:40,2026-09-21 06:00,C,prop,Game 1: Both Teams Destroy Inhibitors?,Yes,26.5,0.03,0.5,No,73.5,0.5,0.97,0.0,,360.0598,https://polymarket.com/event/lol-vksa-dkc-2026-09-21
+2026-09-18 16:08:40,2026-09-21 06:00,C,prop,Game 1: Both Teams Slay Baron Nashor?,Yes,27.5,0.05,0.5,No,72.5,0.5,0.95,0.0,,360.06,https://polymarket.com/event/lol-vksa-dkc-2026-09-21
+2026-09-18 16:08:40,2026-09-21 06:00,C,prop,Game 1: Both Teams Slay a Dragon?,Yes,65.0,0.47,0.83,No,35.0,0.17,0.53,0.0,,360.0555,https://polymarket.com/event/lol-vksa-dkc-2026-09-21
+2026-09-18 16:08:40,2026-09-21 06:00,C,total,Game 1: Odd/Even Total Kills?,Odd,50.0,0.49,0.51,Even,50.0,0.49,0.51,0.0,,158.0734,https://polymarket.com/event/lol-vksa-dkc-2026-09-21
+2026-09-18 16:08:40,2026-09-21 07:00,C,moneyline,LoL: FENNEL vs Cupid Esports (BO1) - World Star Challengers Invitational Group C,FENNEL,29.5,0.28,0.31,Cupid Esports,70.5,0.69,0.72,0.0,,1060.6574,https://polymarket.com/event/lol-fnl-cpd-2026-09-21
+2026-09-18 16:08:40,2026-09-21 07:00,C,prop,Game 1: Any Player Penta Kill?,Yes,26.0,0.02,0.5,No,74.0,0.5,0.98,0.0,,380.06,https://polymarket.com/event/lol-fnl-cpd-2026-09-21
+2026-09-18 16:08:40,2026-09-21 07:00,C,prop,Game 1: Any Player Quadra Kill?,Yes,27.0,0.04,0.5,No,73.0,0.5,0.96,0.0,,360.06,https://polymarket.com/event/lol-fnl-cpd-2026-09-21
+2026-09-18 16:08:40,2026-09-21 07:00,C,prop,Game 1: Both Teams Destroy Inhibitors?,Yes,27.0,0.04,0.5,No,73.0,0.5,0.96,0.0,,361.9792,https://polymarket.com/event/lol-fnl-cpd-2026-09-21
+2026-09-18 16:08:40,2026-09-21 07:00,C,prop,Game 1: Both Teams Slay Baron Nashor?,Yes,27.5,0.05,0.5,No,72.5,0.5,0.95,0.0,,361.9791,https://polymarket.com/event/lol-fnl-cpd-2026-09-21
+2026-09-18 16:08:40,2026-09-21 07:00,C,prop,Game 1: Both Teams Slay a Dragon?,Yes,65.5,0.5,0.81,No,34.5,0.19,0.5,0.0,,361.9783,https://polymarket.com/event/lol-fnl-cpd-2026-09-21
+2026-09-18 16:08:40,2026-09-21 07:00,C,total,Game 1: Odd/Even Total Kills?,Odd,50.0,0.49,0.51,Even,50.0,0.49,0.51,0.0,,261.8428,https://polymarket.com/event/lol-fnl-cpd-2026-09-21
+2026-09-18 16:08:40,2026-09-21 08:00,D,moneyline,LoL: Galions vs Saigon Warriors (BO1) - World Star Challengers Invitational Group D,Galions,68.5,0.63,0.74,Saigon Warriors,31.5,0.26,0.37,0.0,,1967.9975,https://polymarket.com/event/lol-gal-sgw-2026-09-21
+2026-09-18 16:08:40,2026-09-21 08:00,D,prop,Game 1: Any Player Penta Kill?,Yes,26.0,0.02,0.5,No,74.0,0.5,0.98,0.0,,360.06,https://polymarket.com/event/lol-gal-sgw-2026-09-21
+2026-09-18 16:08:40,2026-09-21 08:00,D,prop,Game 1: Any Player Quadra Kill?,Yes,27.0,0.04,0.5,No,73.0,0.5,0.96,0.0,,360.06,https://polymarket.com/event/lol-gal-sgw-2026-09-21
+2026-09-18 16:08:40,2026-09-21 08:00,D,prop,Game 1: Both Teams Destroy Inhibitors?,Yes,26.5,0.03,0.5,No,73.5,0.5,0.97,0.0,,360.0598,https://polymarket.com/event/lol-gal-sgw-2026-09-21
+2026-09-18 16:08:40,2026-09-21 08:00,D,prop,Game 1: Both Teams Slay Baron Nashor?,Yes,27.5,0.05,0.5,No,72.5,0.5,0.95,0.0,,360.06,https://polymarket.com/event/lol-gal-sgw-2026-09-21
+2026-09-18 16:08:40,2026-09-21 08:00,D,prop,Game 1: Both Teams Slay a Dragon?,Yes,65.5,0.5,0.81,No,34.5,0.19,0.5,0.0,,360.0589,https://polymarket.com/event/lol-gal-sgw-2026-09-21
+2026-09-18 16:08:40,2026-09-21 08:00,D,total,Game 1: Odd/Even Total Kills?,Odd,50.0,0.49,0.51,Even,50.0,0.49,0.51,0.0,,158.0734,https://polymarket.com/event/lol-gal-sgw-2026-09-21
+2026-09-18 16:08:40,2026-09-21 09:00,D,moneyline,LoL: Solary vs ZSK (BO1) - World Star Challengers Invitational Group D,Solary,67.0,0.63,0.71,ZSK,33.0,0.29,0.37,0.0,,1040.09,https://polymarket.com/event/lol-sly-zsk-2026-09-21
+2026-09-18 16:08:40,2026-09-21 09:00,D,prop,Game 1: Any Player Penta Kill?,Yes,26.0,0.02,0.5,No,74.0,0.5,0.98,0.0,,380.06,https://polymarket.com/event/lol-sly-zsk-2026-09-21
+2026-09-18 16:08:40,2026-09-21 09:00,D,prop,Game 1: Any Player Quadra Kill?,Yes,27.0,0.04,0.5,No,73.0,0.5,0.96,0.0,,360.06,https://polymarket.com/event/lol-sly-zsk-2026-09-21
+2026-09-18 16:08:40,2026-09-21 09:00,D,prop,Game 1: Both Teams Destroy Inhibitors?,Yes,26.5,0.03,0.5,No,73.5,0.5,0.97,0.0,,360.0598,https://polymarket.com/event/lol-sly-zsk-2026-09-21
+2026-09-18 16:08:40,2026-09-21 09:00,D,prop,Game 1: Both Teams Slay Baron Nashor?,Yes,27.5,0.05,0.5,No,72.5,0.5,0.95,0.0,,360.06,https://polymarket.com/event/lol-sly-zsk-2026-09-21
+2026-09-18 16:08:40,2026-09-21 09:00,D,prop,Game 1: Both Teams Slay a Dragon?,Yes,65.5,0.5,0.81,No,34.5,0.19,0.5,0.0,,360.0589,https://polymarket.com/event/lol-sly-zsk-2026-09-21
+2026-09-18 16:08:40,2026-09-21 09:00,D,total,Game 1: Odd/Even Total Kills?,Odd,50.0,0.49,0.51,Even,50.0,0.49,0.51,0.0,,259.2734,https://polymarket.com/event/lol-sly-zsk-2026-09-21
+2026-09-18 16:08:40,2026-09-21 10:00,C,moneyline,LoL: Cupid Esports vs Dplus KIA Challengers (BO1) - World Star Challengers Invitational Group C,Cupid Esports,25.5,0.2,0.31,Dplus KIA Challengers,74.5,0.69,0.8,0.0,,2650.6,https://polymarket.com/event/lol-cpd-dkc-2026-09-21
+2026-09-18 16:08:40,2026-09-21 10:00,C,prop,Game 1: Any Player Penta Kill?,Yes,26.0,0.02,0.5,No,74.0,0.5,0.98,0.0,,380.06,https://polymarket.com/event/lol-cpd-dkc-2026-09-21
+2026-09-18 16:08:40,2026-09-21 10:00,C,prop,Game 1: Any Player Quadra Kill?,Yes,27.5,0.05,0.5,No,72.5,0.5,0.95,0.0,,360.06,https://polymarket.com/event/lol-cpd-dkc-2026-09-21
+2026-09-18 16:08:40,2026-09-21 10:00,C,prop,Game 1: Both Teams Destroy Inhibitors?,Yes,26.5,0.03,0.5,No,73.5,0.5,0.97,0.0,,360.0598,https://polymarket.com/event/lol-cpd-dkc-2026-09-21
+2026-09-18 16:08:40,2026-09-21 10:00,C,prop,Game 1: Both Teams Slay Baron Nashor?,Yes,27.5,0.05,0.5,No,72.5,0.5,0.95,0.0,,360.06,https://polymarket.com/event/lol-cpd-dkc-2026-09-21
+2026-09-18 16:08:40,2026-09-21 10:00,C,prop,Game 1: Both Teams Slay a Dragon?,Yes,62.0,0.47,0.77,No,38.0,0.23,0.53,0.0,,360.0545,https://polymarket.com/event/lol-cpd-dkc-2026-09-21
+2026-09-18 16:08:40,2026-09-21 10:00,C,total,Game 1: Odd/Even Total Kills?,Odd,50.0,0.49,0.51,Even,50.0,0.49,0.51,0.0,,158.0734,https://polymarket.com/event/lol-cpd-dkc-2026-09-21
+2026-09-18 16:08:40,2026-09-21 11:00,C,moneyline,LoL: FENNEL vs Vivo Keyd Stars Academy (BO1) - World Star Challengers Invitational Group C,FENNEL,53.5,0.42,0.65,Vivo Keyd Stars Academy,46.5,0.35,0.58,0.0,,1563.7742,https://polymarket.com/event/lol-fnl-vksa-2026-09-21
+2026-09-18 16:08:40,2026-09-21 11:00,C,prop,Game 1: Any Player Penta Kill?,Yes,25.5,0.02,0.49,No,74.5,0.51,0.98,0.0,,379.95,https://polymarket.com/event/lol-fnl-vksa-2026-09-21
+2026-09-18 16:08:40,2026-09-21 11:00,C,prop,Game 1: Any Player Quadra Kill?,Yes,27.0,0.04,0.5,No,73.0,0.5,0.96,0.0,,360.06,https://polymarket.com/event/lol-fnl-vksa-2026-09-21
+2026-09-18 16:08:40,2026-09-21 11:00,C,prop,Game 1: Both Teams Destroy Inhibitors?,Yes,27.0,0.04,0.5,No,73.0,0.5,0.96,0.0,,360.06,https://polymarket.com/event/lol-fnl-vksa-2026-09-21
+2026-09-18 16:08:40,2026-09-21 11:00,C,prop,Game 1: Both Teams Slay Baron Nashor?,Yes,28.0,0.06,0.5,No,72.0,0.5,0.94,0.0,,360.0598,https://polymarket.com/event/lol-fnl-vksa-2026-09-21
+2026-09-18 16:08:40,2026-09-21 11:00,C,prop,Game 1: Both Teams Slay a Dragon?,Yes,65.5,0.5,0.81,No,34.5,0.19,0.5,0.0,,360.0589,https://polymarket.com/event/lol-fnl-vksa-2026-09-21
+2026-09-18 16:08:40,2026-09-21 11:00,C,total,Game 1: Odd/Even Total Kills?,Odd,50.0,0.49,0.51,Even,50.0,0.49,0.51,0.0,,158.0734,https://polymarket.com/event/lol-fnl-vksa-2026-09-21
+2026-09-18 16:08:40,2026-09-21 12:00,D,moneyline,LoL: ZSK vs Saigon Warriors (BO1) - World Star Challengers Invitational Group D,ZSK,49.5,0.41,0.58,Saigon Warriors,50.5,0.42,0.59,0.0,,806.16,https://polymarket.com/event/lol-zsk-sgw-2026-09-21
+2026-09-18 16:08:40,2026-09-21 12:00,D,prop,Game 1: Any Player Penta Kill?,Yes,26.0,0.02,0.5,No,74.0,0.5,0.98,0.0,,184.06,https://polymarket.com/event/lol-zsk-sgw-2026-09-21
+2026-09-18 16:08:40,2026-09-21 12:00,D,prop,Game 1: Any Player Quadra Kill?,Yes,27.0,0.04,0.5,No,73.0,0.5,0.96,0.0,,360.06,https://polymarket.com/event/lol-zsk-sgw-2026-09-21
+2026-09-18 16:08:40,2026-09-21 12:00,D,prop,Game 1: Both Teams Destroy Inhibitors?,Yes,26.5,0.03,0.5,No,73.5,0.5,0.97,0.0,,360.0598,https://polymarket.com/event/lol-zsk-sgw-2026-09-21
+2026-09-18 16:08:40,2026-09-21 12:00,D,prop,Game 1: Both Teams Slay Baron Nashor?,Yes,28.0,0.06,0.5,No,72.0,0.5,0.94,0.0,,360.0598,https://polymarket.com/event/lol-zsk-sgw-2026-09-21
+2026-09-18 16:08:40,2026-09-21 12:00,D,prop,Game 1: Both Teams Slay a Dragon?,Yes,68.5,0.5,0.87,No,31.5,0.13,0.5,0.0,,360.0592,https://polymarket.com/event/lol-zsk-sgw-2026-09-21
+2026-09-18 16:08:40,2026-09-21 12:00,D,total,Game 1: Odd/Even Total Kills?,Odd,50.0,0.49,0.51,Even,50.0,0.49,0.51,0.0,,158.0734,https://polymarket.com/event/lol-zsk-sgw-2026-09-21
+2026-09-18 16:08:40,2026-09-21 13:00,D,moneyline,LoL: Solary vs Galions (BO1) - World Star Challengers Invitational Group D,Solary,36.0,0.29,0.43,Galions,64.0,0.57,0.71,0.0,,1066.519,https://polymarket.com/event/lol-sly-gal-2026-09-21
+2026-09-18 16:08:40,2026-09-21 13:00,D,prop,Game 1: Any Player Penta Kill?,Yes,26.0,0.02,0.5,No,74.0,0.5,0.98,0.0,,360.06,https://polymarket.com/event/lol-sly-gal-2026-09-21
+2026-09-18 16:08:40,2026-09-21 13:00,D,prop,Game 1: Any Player Quadra Kill?,Yes,27.0,0.04,0.5,No,73.0,0.5,0.96,0.0,,360.06,https://polymarket.com/event/lol-sly-gal-2026-09-21
+2026-09-18 16:08:40,2026-09-21 13:00,D,prop,Game 1: Both Teams Destroy Inhibitors?,Yes,26.5,0.03,0.5,No,73.5,0.5,0.97,0.0,,360.0598,https://polymarket.com/event/lol-sly-gal-2026-09-21
+2026-09-18 16:08:40,2026-09-21 13:00,D,prop,Game 1: Both Teams Slay Baron Nashor?,Yes,28.0,0.06,0.5,No,72.0,0.5,0.94,0.0,,360.0598,https://polymarket.com/event/lol-sly-gal-2026-09-21
+2026-09-18 16:08:40,2026-09-21 13:00,D,prop,Game 1: Both Teams Slay a Dragon?,Yes,68.5,0.5,0.87,No,31.5,0.13,0.5,0.0,,360.0592,https://polymarket.com/event/lol-sly-gal-2026-09-21
+2026-09-18 16:08:40,2026-09-21 13:00,D,total,Game 1: Odd/Even Total Kills?,Odd,50.0,0.49,0.51,Even,50.0,0.49,0.51,0.0,,158.0734,https://polymarket.com/event/lol-sly-gal-2026-09-21
